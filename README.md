@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![image](https://www.codewars.com/users/Lexislex/badges/micro)
 <!--
 **Lexislex/Lexislex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
