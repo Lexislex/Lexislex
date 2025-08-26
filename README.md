@@ -1,4 +1,17 @@
 ## Hi there 👋
+
+- Языки программирования: ![Static Badge](https://img.shields.io/badge/-Python-gray?style=flat&logo=python)
+- Машинное обучение: ![Static Badge](https://img.shields.io/badge/-scikit--learn-gray?style=flat&logo=scikitlearn)
+![Static Badge](https://img.shields.io/badge/-tensor--flow-gray?style=flat&logo=tensorflow)
+- Аналитика данных: ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
+![Static Badge](https://img.shields.io/badge/-NumPy-gray?style=flat&logo=numpy)
+![Static Badge](https://img.shields.io/badge/Matplotlib-gray?style=flat&logo=matplotlib)
+![Static Badge](https://img.shields.io/badge/Seaborn-gray?style=flat&logo=seaborn)
+![Static Badge](https://img.shields.io/badge/-Plotly-gray?style=flat&logo=plotly)
+- Базы данных: ![Static Badge](https://img.shields.io/badge/-SQL-gray?style=flat&logo=postgresql)
+- Инструменты и системы:  ![Static Badge](https://img.shields.io/badge/-Jupyter-gray?style=flat&logo=jupyter)
+![Static Badge](https://img.shields.io/badge/-GoogleColab-gray?style=flat&logo=googlecolab)
+
 ![image](https://www.codewars.com/users/Lexislex/badges/large)
 <!--
 **Lexislex/Lexislex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
