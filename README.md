@@ -1,32 +1,104 @@
-## Hi there 👋
+# Привет! 👋 Я Алексей
 
-- Языки программирования: ![Static Badge](https://img.shields.io/badge/-Python-gray?style=flat&logo=python)
-- Машинное обучение: ![Static Badge](https://img.shields.io/badge/-scikit--learn-gray?style=flat&logo=scikitlearn)
-![Static Badge](https://img.shields.io/badge/-Tensor--Flow-gray?style=flat&logo=tensorflow)
-![Static Badge](https://img.shields.io/badge/-Pytorch-gray?style=flat&logo=pytorch)
-- Аналитика данных: ![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
-![Static Badge](https://img.shields.io/badge/-NumPy-gray?style=flat&logo=numpy)
-![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=matplotlib)
-![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=seaborn)
-![Static Badge](https://img.shields.io/badge/-Plotly-gray?style=flat&logo=plotly)
-- Базы данных: ![Static Badge](https://img.shields.io/badge/-SQL-gray?style=flat&logo=postgresql)
-- Инструменты и системы:  ![Static Badge](https://img.shields.io/badge/-Jupyter-gray?style=flat&logo=jupyter)
-![Static Badge](https://img.shields.io/badge/-GoogleColab-gray?style=flat&logo=googlecolab)
-![Static Badge](https://img.shields.io/badge/-Vim-gray?style=flat&logo=vim&logoColor=019733)
-![Static Badge](https://img.shields.io/badge/-VSCode-gray?style=flat&logo=vscode)
+## 🚀 Data Scientist | ML Engineer
 
-![image](https://www.codewars.com/users/Lexislex/badges/large)
-<!--
-**Lexislex/Lexislex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю ML-решения и анализирую данные для решения реальных задач. Увлечен NLP, автоматизацией и созданием практичных AI-приложений.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Избранные проекты
+
+#### 🤖 [SEMD Bot](https://github.com/Lexislex/SEMD_bot)
+Telegram-бот для автоматизации работы с системой ФНСИ/СЭМД
+- **Технологии:** Python, Telegram API
+- **Результат:** Автоматизация рутинных задач, экономия времени
+
+#### 📝 [Проект по NLP](https://github.com/Lexislex/NLP_final_attestation)
+Итоговый проект по обработке естественного языка
+- **Технологии:** Python, NLTK/spaCy, Machine Learning
+- **Статус:** Успешно защищен как итоговая аттестация
+
+#### 🏆 [Хакатон SkillFactory](https://github.com/Lexislex/SF_hack_task_1)
+Решение задачи хакатона
+- **Технологии:** Python, Data Science библиотеки
+- **Достижение:** Выполнено за время хакатона
+
+#### 🧠 [Проект по нейросетям](https://github.com/Lexislex/final_pj_nn)
+Итоговая работа по нейронным сетям
+- **Технологии:** Python, TensorFlow/PyTorch
+- **Фокус:** Архитектура и оптимизация нейронных сетей
+
+---
+
+### 💻 Технологический стек
+
+**Языки программирования**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Аналитика данных**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Инструменты**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub статистика
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexislex&show_icons=true&theme=radical&hide_border=true&locale=ru)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexislex&layout=compact&theme=radical&hide_border=true&locale=ru)
+
+</div>
+
+---
+
+### 🎯 Сейчас работаю над
+
+- 🔭 Улучшением портфолио Data Science проектов
+- 🌱 Изучением продвинутых техник ML и MLOps
+- 💡 Интересуюсь NLP, анализом временных рядов и ML Engineering
+- 🤝 Открыт к коллаборациям и интересным проектам
+
+---
+
+### 💪 Навыки на Codewars
+
+![Codewars](https://www.codewars.com/users/Lexislex/badges/large)
+
+---
+
+### 📫 Контакты
+
+- **Telegram:** [@AlexeyAA]
+- **Email:** lexislex@infotech-med.ru
+
+---
+
+<div align="center">
+
+💡 **"Данные - это новая нефть, а инсайты - очищенное топливо"**
+
+⭐ **Если вам понравились мои проекты, поставьте звезду!**
+
+</div>
