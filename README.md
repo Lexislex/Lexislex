@@ -61,18 +61,6 @@ Telegram-бот для автоматизации работы с системо
 
 ---
 
-### 📊 GitHub статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexislex&show_icons=true&theme=radical&hide_border=true&locale=ru)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexislex&layout=compact&theme=radical&hide_border=true&locale=ru)
-
-</div>
-
----
-
 ### 🎯 Сейчас работаю над
 
 - 🔭 Улучшением портфолио Data Science проектов
